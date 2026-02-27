@@ -5,7 +5,6 @@ This toolkit includes:
 *   ✅ **A Feature-Rich Flutter Mobile App (iOS & Android)**
 *   ✅ **A Powerful Flutter Web Admin Dashboard**
 *   ✅ **A Scalable Dart Frog Backend API**
-*   ✅ **A Full Suite of Supporting Packages**
 
 ---
 <p align="center">
