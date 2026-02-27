@@ -41,17 +41,3 @@ A one-time purchase grants you a lifetime commercial license to launch your news
 We actively maintain the original, unmodified source code. You are encouraged to report any suspected bugs or security vulnerabilities through the "Issues" tab of the relevant repository. We will investigate reports that are verifiable on the original codebase and, at our discretion, will work to address valid issues in future updates.
 
 **Please note:** Issues that are a result of your own modifications to the source code are outside the scope of our maintenance commitment.
-
-### Frequently Asked Questions (FAQ)
-
-**1. What exactly does my license give me?**
-It gives you the legal right to use our entire toolkit (mobile app, API, dashboard) to build, publish, and monetize one application on the Apple App Store and Google Play Store.
-
-**2. I'm a freelancer building an app for a client. Who buys the license?**
-The license is non-transferable and must be purchased by the final owner of the application—in this case, your client. They will be the ones publishing the app to their store accounts, so they must be the license holder.
-
-**3. What is your refund policy?**
-Due to the nature of the product—source-available code that you can fully inspect and test locally *before* purchase—all sales are final and non-refundable. We provide unlimited local evaluation to ensure the toolkit is the right fit for your needs before you commit to a license.
-
-**4. Why is the code public if it's a commercial product?**
-We believe in transparency. By making the code source-available, you can fully inspect its quality before purchasing. The license you buy grants you the legal right to use this code for your own closed-source, commercial project.
