@@ -7,6 +7,7 @@ This includes:
 *   ✅ **A Scalable Dart Frog Backend API**
 
 ---
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2e47cb52-778f-4b6e-9e82-c39fcd31db47" alt="Flutter News App" width="100%" >
 </p>
