@@ -1,5 +1,3 @@
-# 💎 The Verity News System
-
 **Verity** is a professional, full-stack news application ecosystem built on a unified Dart and Flutter architecture. It is designed for developers who value clean, maintainable code and for businesses that require a production-ready deployment.
 
 <p align="center">
