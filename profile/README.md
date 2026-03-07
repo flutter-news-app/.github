@@ -1,12 +1,6 @@
-Launch your complete, production-grade news platform in days, not months. This is the entire full-stack solution for developers and businesses who want to deploy a professional news application without starting from scratch.
+# 💎 The Verity News System
 
-This includes:
-
-*   ✅ **A Feature-Rich Flutter Mobile App (iOS & Android)**
-*   ✅ **A Powerful Flutter Web Admin Dashboard**
-*   ✅ **A Scalable Dart Frog Backend API**
-
----
+**Verity** is a professional, full-stack news application ecosystem built on a unified Dart and Flutter architecture. It is designed for developers who value clean, maintainable code and for businesses that require a production-ready deployment.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2e47cb52-778f-4b6e-9e82-c39fcd31db47" alt="Flutter News App" width="100%" >
@@ -14,30 +8,26 @@ This includes:
 
 ---
 
-### ⚖️ Free Trial: Explore & Verify Locally
+### 📦 The Three Components
 
-All repositories are source-available. For a complete guide on setting up your local environment and running this project, please see the Wiki tab in each repository. This allows for unlimited local testing and evaluation to verify the quality. **Using the source code in a commercial, production, or public-facing application is strictly prohibited without a purchased Lifetime License.**
-
-### 💼 Lifetime Commercial License
-
-A one-time purchase grants you a lifetime commercial license to launch your news business.
-
-| Feature                      | Lifetime Commercial License                                      |
-| ---------------------------- | ---------------------------------------------------------------- |
-| **Price**             | **$89**                                                         |
-| **Number of Applications**   | **One (1) Application**                                          |
-| **Platforms Supported**      | Apple App Store & Google Play Store                              |
-| **Full Source Code Access**  | ✅ All Repositories                                              |
-| **Right to Modify Code**     | ✅ Yes                                                           |
-| **Right to Monetize**        | ✅ Yes (via Ads, In-app purchases, etc)                                  |
-| **License Terms**            | **[Read Full License Terms](https://github.com/flutter-news-app/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md)**      |
-
-> ### **[Purchase Your Lifetime License via GitHub Sponsors](https://github.com/sponsors/flutter-news-app)**
+1.  **[verity-api](https://github.com/verity-hq/verity-api)**: A high-performance backend built with **Dart Frog**. Features include a metadata-driven data gateway, JWT-based security, and an automated ETL analytics pipeline.
+2.  **[verity-mobile](https://github.com/verity-hq/verity-mobile)**: A sophisticated **Flutter** mobile client. Features include personalized filtering, "Pay-with-Time" ad rewards (SSV), and a seamless onboarding flow. **(Verified on Android)**.
+3.  **[verity-dashboard](https://github.com/verity-hq/verity-dashboard)**: An administrative command center built with **Flutter Web**. Features include multi-language content management, real-time remote app configuration, and community moderation tools.
 
 ---
 
-### Scope of Maintenance
+### 🛡️ Verified on Android
+Verity is built using a standardized Flutter architecture for cross-platform compatibility. Please note that the current version has been developed and verified exclusively on Android. While the codebase is iOS-ready by design, iOS builds have not been tested in a live environment and may require platform-specific configuration by the developer.
 
-We actively maintain the original, unmodified source code. You are encouraged to report any suspected bugs or security vulnerabilities through the "Issues" tab of the relevant repository. We will investigate reports that are verifiable on the original codebase and, at our discretion, will work to address valid issues in future updates.
+---
 
-**Please note:** Issues that are a result of your own modifications to the source code are outside the scope of our maintenance commitment.
+### 💼 Commercial Licensing
+
+Verity is **Source-Available**. You are encouraged to clone and run the system locally to verify the engineering quality before purchasing. A valid license is required for any public-facing or commercial application.
+
+*   **Standard License ($99):** Grants a lifetime commercial license for **one (1) application**.
+*   **Agency License ($499):** Grants a lifetime commercial license for **unlimited applications**.
+
+> ### [➔ Purchase Your License via GitHub Sponsors](https://github.com/sponsors/verity-hq)
+
+*All purchases are governed by our [Lifetime Commercial License v1.0](https://github.com/verity-hq/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md).*
