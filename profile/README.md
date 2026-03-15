@@ -92,7 +92,6 @@ To transition from local evaluation to a public launch, you must purchase a **Li
 
 ### Purchasing Options
 *   **Standard License ($99):** Grants a lifetime commercial license for **one (1) application**.
-*   **Agency License ($499):** Grants a lifetime commercial license for **unlimited applications**.
 
 ### [➔ Purchase Your License via GitHub Sponsors](https://github.com/sponsors/veritai-news)
 
