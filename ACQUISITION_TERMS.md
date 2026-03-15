@@ -22,7 +22,7 @@ The Buyer acquires absolute control over the future of the codebase. Immediately
 
 ### 4. Handover Process
 1. **Verification:** The potential Buyer emails `fulleni@hotmail.com` to confirm availability and intent to acquire.
-2. **Payment:** The Buyer completes the $3,500 Full IP Acquisition sponsorship via GitHub Sponsors.
+2. **Payment:** The Buyer completes the $5000 Full IP Acquisition sponsorship via GitHub Sponsors.
 3. **Agreement:** The Seller provides a formal Intellectual Property Assignment Agreement for digital signature.
 4. **Transfer:** Upon signature, the Seller initiates the "Transfer Ownership" process for the GitHub Organization to the Buyer's designated GitHub account.
 
