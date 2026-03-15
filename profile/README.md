@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # VeritAI News
@@ -13,7 +10,13 @@
   <a href="https://github.com/sponsors/veritai-news"><img src="https://img.shields.io/badge/LIFETIME_LICENSE-PURCHASE-purple?style=for-the-badge" alt="Lifetime License: Purchase"></a>
 </p>
 
-<img src="https://repository-images.githubusercontent.com/946589707/688fca55-528f-413b-9355-8d11036dc451" alt="Flutter News App" width="100%" >
+
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=PLymMDYkHKvYrzdvc7rSki_O9CQTWPaeSv" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/946589707/688fca55-528f-413b-9355-8d11036dc451" alt="VeriAI News" width="80%" >
+  </a>
+</div>
+
 
 
 </div>
