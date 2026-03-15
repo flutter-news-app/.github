@@ -2,12 +2,7 @@
 
 **VeritAI** is a professional, commercial source-available ecosystem designed for modern digital publishers and developers. It provides everything required to launch, operate, and monetize a world-class news service out of the box.
 
-<p align="center">
-  <a href="https://github.com/veritai-news/veritai-mobile/wiki/Local-Setup"><img src="https://img.shields.io/badge/DOCUMENTATION-READ-slategray?style=for-the-badge" alt="Documentation: Read"></a>
-  <a href="https://github.com/veritai-news/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md"><img src="https://img.shields.io/badge/TRIAL_LICENSE-VIEW_TERMS-blue?style=for-the-badge" alt="Trial License: View Terms"></a>
-  <a href="https://github.com/sponsors/veritai-news"><img src="https://img.shields.io/badge/LIFETIME_LICENSE-PURCHASE-purple?style=for-the-badge" alt="Lifetime License: Purchase"></a>
-</p>
-
+---
 
 <div align="center">
   <a href="https://www.youtube.com/playlist?list=PLymMDYkHKvYrzdvc7rSki_O9CQTWPaeSv" target="_blank">
@@ -15,11 +10,11 @@
   </a>
 </div>
 
-
+---
 
 </div>
 
----
+
 
 ## ⚡ The 100% Dart Advantage
 VeritAI is engineered entirely from the ground up using a unified **Dart** stack. By leveraging **Flutter** for the mobile client, **Flutter Web** for the operational dashboard, and **Dart Frog** for the high-performance backend, this ecosystem delivers an unparalleled developer experience. 
