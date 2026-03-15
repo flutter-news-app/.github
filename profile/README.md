@@ -1,7 +1,5 @@
 <div align="center">
 
-# VeritAI News
-
 **VeritAI** is a professional, commercial source-available ecosystem designed for modern digital publishers and developers. It provides everything required to launch, operate, and monetize a world-class news service out of the box.
 
 <p align="center">
