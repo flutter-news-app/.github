@@ -26,7 +26,7 @@ VeritAI is engineered entirely from the ground up using a unified **Dart** stack
 ## 🧠 Autonomous AI & Automation
 At the heart of the ecosystem is a decoupled, highly advanced **Intelligence Engine**. It transforms raw, high-velocity data feeds into structured, valuable content with zero manual intervention.
 
-* **Provider-Agnostic AI:** Built on a flexible Strategy Pattern, you can seamlessly hot-swap between OpenAI, Google Gemini, Anthropic, or Mistral. Optimize for cost or reasoning power without changing a single line of business logic.
+* **Provider-Agnostic AI:** Built on a flexible Strategy Pattern, you can seamlessly hot-swap between OpenAI, Gemini, Anthropic, Mistral and more. Optimize for cost or reasoning power without changing a single line of business logic.
 * **Editorial Autopilot:** As raw news is ingested (via built-in integrations like NewsAPI or MediaStack), an asynchronous AI worker instantly extracts metadata, standardizes localization, assigns topics, tags key individuals, and infers geographic relevance.
 * **Breaking News Watchdog:** The AI engine autonomously evaluates content urgency, identifying critical events and triggering deduplicated, targeted push notifications to subscribed users 24/7.
 * **Cost Governance:** Strict server-side JSON schema enforcement prevents AI hallucination, while centralized token quotas ensure you never face unexpected billing surprises.
