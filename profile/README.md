@@ -73,7 +73,7 @@ Instead of isolated tools, VeritAI operates as a deeply integrated suite where t
 <summary><strong>🛡️ Enterprise-Grade Architecture</strong></summary>
 
 * **Metadata-Driven Data Gateway:** The API isn't a mess of hardcoded routes. A central engine handles CRUD operations for all entities based on a strict registry of rules, permissions, and validations.
-* **Multi-Provider Cloud Storage:** Avoid vendor lock-in. Switch between Google Cloud Storage (GCS), AWS S3, or Local Storage with a single environment variable. Pre-signed URLs ensure heavy asset uploads bypass your API entirely.
+* **Multi-Provider Cloud Storage:** Avoid vendor lock-in. Switch between industry-leading media CDNs: Cloudinary and Uploadcare with a single environment variable. Pre-signed URLs ensure heavy asset uploads bypass your API entirely.
 * **Automated Migrations:** Code-driven, versioned schema evolution ensures database integrity across all environments with complete traceability.
 </details>
 
