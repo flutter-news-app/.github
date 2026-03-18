@@ -6,7 +6,7 @@ This Lifetime Commercial License ("License") is a legal agreement between you ("
 
 *   **"The Licensor"** refers to the owner and provider of The Licensed Source Code.
 *   **"You"** refers to the individual or legal entity that has acquired this license through a valid purchase.
-*   **"The Licensed Source Code"** refers to the entire collection of source code, digital assets, and all other files, in any form, contained within the `verity-hq` GitHub organization. This includes the mobile client, the web dashboard, the API server, and all associated packages as a single, indivisible toolkit.
+*   **"The Licensed Source Code"** refers to the entire collection of source code, digital assets, and all other files, in any form, contained within the `veritai-news` GitHub organization. This includes the mobile client, the web dashboard, the API server, and all associated packages as a single, indivisible toolkit.
 *   **"Single Application"** refers to one distinct software product, identified by a unique Application ID (for Android) and a corresponding Bundle Identifier (for iOS), marketed as a single application.
 *   **"The App Stores"** refers to the Apple App Store and the Google Play Store.
 
