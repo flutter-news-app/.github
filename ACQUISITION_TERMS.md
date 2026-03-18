@@ -18,7 +18,7 @@ The Buyer acquires absolute control over the future of the codebase. Immediately
 - Transition all previously public repositories to **private** status.
 - Permanently **close-source** the project.
 - Cease all future public distribution, sales, or licensing of the VeritAI ecosystem. 
-*(Existing $99 Licensees retain the right to the code they have already downloaded/forked, but will lose access to the official repositories once made private by the Buyer).*
+*(Existing Standard Licensees retain the right to the code they have already downloaded, but will lose access to the official repositories once made private by the Buyer).*
 
 ### 4. Handover Process
 1. **Verification:** The potential Buyer emails `fulleni@hotmail.com` to confirm availability and intent to acquire.
