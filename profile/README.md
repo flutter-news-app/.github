@@ -82,10 +82,7 @@ Instead of isolated tools, VeritAI operates as a deeply integrated suite where t
 
 VeritAI is a commercial product available via a **Source-Available** model. We encourage you to clone the pinned repositories and run the complete ecosystem locally to evaluate the architecture, code quality, and performance before making a financial commitment.
 
-To transition from local evaluation to a public launch, you must purchase a **Lifetime Commercial License**.
-
-### Purchasing Options
-*   **Standard License ($99):** Grants a lifetime commercial license for **one (1) application**.
+To transition from local evaluation to a public launch, you must purchase a **Lifetime Commercial License ($250)**.
 
 ### [➔ Purchase Your License via GitHub Sponsors](https://github.com/sponsors/veritai-news)
 
