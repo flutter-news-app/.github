@@ -78,13 +78,26 @@ Instead of isolated tools, VeritAI operates as a deeply integrated suite where t
 
 ---
 
-## 🔑 Commercial Licensing & Onboarding
-<!--
-VeritAI is a commercial product available via a **Source-Available** model. We encourage you to clone the pinned repositories and run the complete ecosystem locally to evaluate the architecture, code quality, and performance before making a financial commitment.
 
-To transition from local evaluation to a public launch, you must purchase a **Lifetime Commercial License ($250)**.
--->
+## 🔑 Commercial Licensing
+VeritAI is a **source-available** product. You are encouraged to clone the repositories and evaluate the engineering quality locally before purchase. A commercial license is required for any public-facing or monetized application.
 
-### [➔ Purchase Your License via GitHub Sponsors](https://github.com/sponsors/veritai-news)
+### [➔ Standard License ($99)](https://moonpay.hel.io/pay/69bee49730a43e2d5646169a)
+**Single Application Lifetime License.**
+A one-time purchase granting commercial rights for the entire stack (Mobile, Web, and API).
+- **Governed by:** [Lifetime Commercial License v1.0](https://github.com/veritai-news/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md)
 
-*Note: This license grants you the right to modify, operate, and monetize the compiled application and supporting backend services. It does **not** grant the right to redistribute, resell, or share the original or modified source code. Please review the complete [Lifetime Commercial License v1.0](https://github.com/veritai-news/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md) for full terms.*
+### [➔ Full IP Acquisition ($999)](YOUR_HELIO_LINK_HERE)
+**Exclusive Single-Buyer Buyout.**
+Total transfer of 100% Intellectual Property, Branding, and administrative control of the **veritai-news** GitHub Organization.
+- **Governed by:** [Acquisition Terms](https://github.com/veritai-news/.github/blob/main/ACQUISITION_TERMS.md)
+- *Email `fulleni@hotmail.com` prior to purchase to coordinate the transfer.*
+
+---
+
+### 🛡️ License Authorization & Enforcement
+We actively and regularly scan the Apple App Store and Google Play Store for unauthorized use of the VeritAI core. To prevent copyright enforcement actions or store removal:
+
+1. **Digital Receipt:** Your email address used at checkout is your permanent proof of purchase.
+2. **Whitelist Registration:** Once your project is ready for launch, you must email your **Android App ID** and **iOS Bundle ID** to `fulleni@hotmail.com` from your purchase email.
+3. **Grace Period:** You do not need these IDs at the time of purchase. You are only required to register them before your application goes live to ensure your project is whitelisted against our automated detection systems.
