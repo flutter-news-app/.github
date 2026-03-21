@@ -82,12 +82,12 @@ Instead of isolated tools, VeritAI operates as a deeply integrated suite where t
 ## 🔑 Commercial Licensing
 VeritAI is a **source-available** product. You are encouraged to clone the repositories and evaluate the engineering quality locally before purchase. A commercial license is required for any public-facing or monetized application.
 
-### [➔ Standard License ($99)](https://moonpay.hel.io/pay/69bee49730a43e2d5646169a)
+### [➔ Standard License ($250)](https://moonpay.hel.io/pay/69bee49730a43e2d5646169a)
 **Single Application Lifetime License.**
 A one-time purchase granting commercial rights for the entire stack (Mobile, Web, and API).
 - **Governed by:** [Lifetime Commercial License v1.0](https://github.com/veritai-news/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md)
 
-### [➔ Full IP Acquisition ($999)](YOUR_HELIO_LINK_HERE)
+### [➔ Full IP Acquisition ($2500)](https://moonpay.hel.io/pay/69beedd842e7484508683859)
 **Exclusive Single-Buyer Buyout.**
 Total transfer of 100% Intellectual Property, Branding, and administrative control of the **veritai-news** GitHub Organization.
 - **Governed by:** [Acquisition Terms](https://github.com/veritai-news/.github/blob/main/ACQUISITION_TERMS.md)
@@ -95,7 +95,7 @@ Total transfer of 100% Intellectual Property, Branding, and administrative contr
 
 ---
 
-### 🛡️ License Authorization & Enforcement
+### 🛡️ Standard License Authorization & Enforcement
 We actively and regularly scan the Apple App Store and Google Play Store for unauthorized use of the VeritAI core. To prevent copyright enforcement actions or store removal:
 
 1. **Digital Receipt:** Your email address used at checkout is your permanent proof of purchase.
