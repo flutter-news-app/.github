@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 **VeritAI** is a professional, commercial source-available ecosystem designed for modern digital publishers and developers. It provides everything required to launch, operate, and monetize a world-class news service out of the box.
@@ -77,29 +78,4 @@ Instead of isolated tools, VeritAI operates as a deeply integrated suite where t
 </details>
 
 ---
-
-
-## 🔑 Commercial Licensing
-VeritAI is a **source-available** product. You are encouraged to clone the repositories and evaluate the engineering quality locally before purchase. A commercial license is required for any public-facing or monetized application.
-
-### [➔ Standard License (Single Application) ($99)]()
-A one-time purchase granting lifetime commercial rights to the full stack—Mobile, Web, and API—to modify, publish, and freely monetize one professional news application.
-
-- **Governed by:** [Lifetime Commercial License v1.0](https://github.com/veritai-news/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md)
-
-<!--
-### [➔ Full IP Acquisition ($2500)]()
-**Exclusive Single-Buyer Buyout.**
-Total transfer of 100% Intellectual Property, Branding, and administrative control of the **veritai-news** GitHub Organization.
-- **Governed by:** [Acquisition Terms](https://github.com/veritai-news/.github/blob/main/ACQUISITION_TERMS.md)
-- *Email `fulleni@hotmail.com` prior to purchase to coordinate the transfer.*
 -->
-
----
-
-### 🛡️ License Authorization & Enforcement
-We actively and regularly scan the Apple App Store and Google Play Store for unauthorized use of the VeritAI core. To prevent copyright enforcement actions or store removal:
-
-1. **Digital Receipt:** Your email address used at checkout is your permanent proof of purchase.
-2. **Whitelist Registration:** Once your project is ready for launch, you must email your **Android App ID** and **iOS Bundle ID** to `fulleni@hotmail.com` from your purchase email.
-3. **Grace Period:** You do not need these IDs at the time of purchase. You are only required to register them before your application goes live to ensure your project is whitelisted against our automated detection systems.
